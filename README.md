@@ -1,12 +1,12 @@
-# Pancake Recipe.
+# Pancake Recipe
 
 Mix the dry ingredients together in a large bowl.
 
 Separate the eggs.
 
-Wip the egg whites until the form stiff peaks.
+Wip the egg whites until they form stiff peaks.
 
-In a separate hammock combine egg yokes, milk and oil and mix them.
+In a separate hammock, mix egg yokes, milk and oil.
 
 Add the liquid into the flour bowl and mix them until the blend.
 
@@ -14,7 +14,9 @@ Fold in the egg whites and let everything rest for 15 minutes.
 
 Make pancakes.
 
-# 1 Egg
+# Ingredients
+
+## 1 Egg
 ```
   3/4 Cups Flour
   1/2 Teaspoon Salt
@@ -25,7 +27,7 @@ Make pancakes.
 1 1/2 Tablespoons Oil
 ```
 
-# 2 Eggs
+## 2 Eggs
 ```
 1 1/2 Cups Flour
   3/4 Teaspoon Salt
@@ -36,7 +38,7 @@ Make pancakes.
 3     Tablespoons Oil
 ```
 
-# 3 Eggs
+## 3 Eggs
 ```
 2 1/4 Cups Flour
 1 1/8 Teaspoon Salt
