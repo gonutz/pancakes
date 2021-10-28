@@ -6,7 +6,7 @@ Separate the eggs.
 
 Wip the egg whites until they form stiff peaks.
 
-In a separate hammock, mix egg yokes, milk and oil.
+In a separate hammock, mix egg yolks, milk and oil.
 
 Add the liquid into the flour bowl and mix them until the blend.
 
